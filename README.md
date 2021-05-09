@@ -1,4 +1,4 @@
-# Welcome to ABC Kids Learning 👋
+# Welcome to Rizq Kids Learning 👋
 
 ## Install
 
@@ -11,9 +11,3 @@ yarn
 ```sh
 yarn start
 ```
-
-## Author
-
-👤 **TMStudio**
-
-* Github: [@dankuanmin](https://github.com/dankuanmin)
